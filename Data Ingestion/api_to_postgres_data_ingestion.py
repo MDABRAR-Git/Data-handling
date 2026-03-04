@@ -1,6 +1,5 @@
 import requests
 import psycopg2
-
 # API endpoint
 URL = "https://jsonplaceholder.typicode.com/posts"
 
